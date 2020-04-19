@@ -4,10 +4,23 @@ You can submit all the answers to this assignment in a single repository (or as 
 
 **For questions 3-5 use the latest Node LTS**.
 
+## 0. Questions from email
+- When would you be available? What's your experience working remotely? (we're fully remote at Reedsy!)
+  - I have to give one month's notice at my current job. I don’t work Wednesdays in my current job so in theory I could start onboarding on Wednesdays immediately. I have worked with teams spanning other countries (Romania, the UK, Belgium, and India while my team is based in the Netherlands) but I have always been based in a locally working team.
+- Do you have a resume, website or GitHub account with projects you've worked integrating design and using Angular/Node?
+  - I have a self hosted CV here: https://isabellerochecouste.me/ which details my professional experience. I’ve been working with Angular and Node daily for the past 3 and a half years.
+- What's your rate or current salary?
+  - My current salary is €50,000 per annum.
+- What's your favorite Giphy?
+  - I’m very glad you asked. I have 2. The first can be found here: https://doggifpage.com/right-handed. It reminds me a lot of my dog back home and cracks me up every time I see it. The second can be found here: https://gfycat.com/thickhandsomefrog. This one is a GIF that keeps on giving. The more you watch it the more you see, I especially love that the girl in the middle takes a bite out of the other girl’s piece of fruit and then puts it back in her glass. The links to both of these GIFs are in my bookmarks bar and result in some questions when I am screen-sharing. 
+
 ## 1. About you
 
-Tell us about one of your commercial projects with Node.js and/or AngularJS.
+Since July of 2017, I have been working on a fintech blockchain project called we.trade which had just started its second sprint when I joined. Our stack included Angular (although 2+ and not AngularJS) and Node.js, both of which were developed using Typescript. 
 
+The product itself is a trading platform for small and medium enterprises where the unique selling point is that the trading parties' banks offer direct financial services such as invoice financing to the trading parties. The business flow follows a trade from proposal, amending and acceptance, through to invoicing and shipment, and ending on payment of the trade. I understand the risks associated with running a platform where money and services are being exchanged and how important it is to be 100% sure that what you deliver works as expected.
+
+I have worked as a full-stack developer on the project since the beginning, with a focus on back-end and chaincode development, and I have also worked extensively with deployment in Kubernetes using Helm with Concourse as CI/CD.
 
 ## 2. Document versioning
 
@@ -20,6 +33,15 @@ It should be able to show:
 
 Strive for disk space efficiency.
 
+After doing some research I see that there are two commonly used solutions. The first being to store a snapshot of each version of the document. The second being to only store the first version of the document and then store the delta between each version and the version that follows it, which is sometimes referred to as delta encoding or the changeset model.
+
+The pro of the first option is that there is far less processing required to get a version of the document as you already have it in its entirety. The con is that it takes up more space per document/document history. The opposite is true for the second option where the pro is that since you are only storing the delta of all subsequent versions, it is less space consuming. The con is that it requires more processing to patch together the deltas to make up the desired version of the document.
+
+Since it has been explicity stated that disk space efficiency should be the key concern in this solution then the proposed decision would be to use delta encoding. The image below depicts how the document can be retrieved in its current state or at any point in its revision history. To retrieve the changes made between two versions you can retrieve the earlier version in its entirety and then highlight the deltas between that version and the later version. 
+
+![Image](./images/answer-2.png "Image")
+
+Each 'delta object' should also contain some information on who made the changes and a timestamp.
 
 ## 3. Node.js REST API
 
