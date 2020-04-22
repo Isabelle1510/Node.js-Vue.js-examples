@@ -1,4 +1,4 @@
-# vue-spa
+# nodejs-rest-api
 
 ## Project setup
 ```
