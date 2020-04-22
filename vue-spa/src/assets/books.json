@@ -1,0 +1,317 @@
+{
+  "books": [
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "cover": "windup.jpeg",
+      "publishingDate": "1994",
+      "rating": "8.4",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.amazon.co.uk/Wind-Up-Bird-Chronicle-Haruki-Murakami/dp/0099448793"
+        }, {
+          "site": "iBooks",
+          "url": "https://books.apple.com/us/book/the-wind-up-bird-chronicle/id420534251"
+        }, {
+          "site": "Play Store",
+          "url": "https://play.google.com/store/books/details/Haruki_Murakami_The_Wind_Up_Bird_Chronicle?id=A_mQPAqfte8C"
+        }
+      ],
+      "summary": "In a Tokyo suburb, a young man named Toru Okada searches for his wife’s missing cat—and then for his wife as well—in a netherworld beneath the city’s placid surface. As these searches intersect, he encounters a bizarre group of allies and antagonists. Gripping, prophetic, and suffused with comedy and menace, this is an astonishingly imaginative detective story, an account of a disintegrating marriage, and an excavation of the buried secrets from Japan’s forgotten campaign in Manchuria during World War II."
+    }, {
+      "title": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "cover": "lotr.jpeg",
+      "publishingDate": "1954",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.amazon.co.uk/Lord-Rings-Book-Box-set/dp/0261102389"
+        }
+      ],
+      "summary": "Continuing the story of The Hobbit, this three-volume boxed set of Tolkien’s epic masterpiece, The Lord of the Rings, features striking black covers based on Tolkien’s own design, the definitive text, and three maps including a detailed map of Middle-earth. Sauron, the Dark Lord, has gathered to him all the Rings of Power – the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring – the ring that rules them all – which has fallen into the hands of the hobbit, Bilbo Baggins. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose. Since it was first published in 1954, ‘The Lord of the Rings’ has been a book people have treasured. Steeped in unrivalled magic and otherworldliness, its sweeping fantasy has touched the hearts of young and old alike."
+    }, {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "cover": "dune.jpg",
+      "publishingDate": "1965",
+      "rating": "9",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.amazon.co.uk/Dune-Frank-Herbert/dp/0450011844"
+        }, {
+          "site": "iBooks",
+          "url": "https://books.apple.com/us/book/dune/id597944491"
+        }
+      ],
+      "summary": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for.... When House Atreides is betrayed, the destruction of Paul’s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad’Dib, he will bring to fruition humankind’s most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction."
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "cover": "alice.jpg",
+      "publishingDate": "1865",
+      "rating": "8.7",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.amazon.co.uk/Alices-Adventures-Wonderland-Lewis-Carroll/dp/1503222683"
+        }, {
+          "site": "Play Store",
+          "url": "https://play.google.com/store/books/details/Alice_s_Adventures_in_Wonderland?id=Y7sOAAAAIAAJ&hl=en_US"
+        }
+      ],
+      "summary": "In the most renowned novel by English author Lewis Carroll, restless young Alice literally stumbles into adventure when she follows the hurried, time-obsessed White Rabbit down a hole and into a fantastical realm where animals are quite verbose, logic is in short supply, and royalty tends to be exceedingly unpleasant. Each playfully engaging chapter presents absurd scenarios involving an unforgettable cast of characters, including the grinning Cheshire Cat and the short-tempered Queen of Hearts, and every stop on Alice's peculiar journey is marked by sharp social satire and wondrously witty wordplay."
+    }, {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "cover": "lolita.jpeg",
+      "publishingDate": "1955",
+      "rating": "8.6",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.amazon.co.uk/Lolita-Penguin-Classics-Vladimir-Nabokov/dp/0141182539"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    },
+    {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1945",
+      "rating": "8",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat dolor quis ante dignissim, sit amet imperdiet turpis sagittis. Cras eget condimentum metus. Integer vitae nulla et tortor dictum maximus sed ac tellus. Mauris interdum libero sodales mi condimentum tempor. Etiam justo diam, consectetur at justo quis, condimentum efficitur tellus. Maecenas mollis, turpis eu bibendum auctor, urna ipsum ultricies nibh, id efficitur turpis velit sit amet magna. Mauris feugiat magna purus, vitae egestas nisi lacinia nec. Nullam a dolor in velit efficitur feugiat. Vivamus a rutrum tellus, non tempus elit."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1935",
+      "rating": "5",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    },
+    {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1945",
+      "rating": "8",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat dolor quis ante dignissim, sit amet imperdiet turpis sagittis. Cras eget condimentum metus. Integer vitae nulla et tortor dictum maximus sed ac tellus. Mauris interdum libero sodales mi condimentum tempor. Etiam justo diam, consectetur at justo quis, condimentum efficitur tellus. Maecenas mollis, turpis eu bibendum auctor, urna ipsum ultricies nibh, id efficitur turpis velit sit amet magna. Mauris feugiat magna purus, vitae egestas nisi lacinia nec. Nullam a dolor in velit efficitur feugiat. Vivamus a rutrum tellus, non tempus elit."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1935",
+      "rating": "5",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    },
+    {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1945",
+      "rating": "8",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat dolor quis ante dignissim, sit amet imperdiet turpis sagittis. Cras eget condimentum metus. Integer vitae nulla et tortor dictum maximus sed ac tellus. Mauris interdum libero sodales mi condimentum tempor. Etiam justo diam, consectetur at justo quis, condimentum efficitur tellus. Maecenas mollis, turpis eu bibendum auctor, urna ipsum ultricies nibh, id efficitur turpis velit sit amet magna. Mauris feugiat magna purus, vitae egestas nisi lacinia nec. Nullam a dolor in velit efficitur feugiat. Vivamus a rutrum tellus, non tempus elit."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1935",
+      "rating": "5",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    },
+    {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1945",
+      "rating": "8",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat dolor quis ante dignissim, sit amet imperdiet turpis sagittis. Cras eget condimentum metus. Integer vitae nulla et tortor dictum maximus sed ac tellus. Mauris interdum libero sodales mi condimentum tempor. Etiam justo diam, consectetur at justo quis, condimentum efficitur tellus. Maecenas mollis, turpis eu bibendum auctor, urna ipsum ultricies nibh, id efficitur turpis velit sit amet magna. Mauris feugiat magna purus, vitae egestas nisi lacinia nec. Nullam a dolor in velit efficitur feugiat. Vivamus a rutrum tellus, non tempus elit."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1935",
+      "rating": "5",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }, {
+      "title": "Generic Book",
+      "author": "Someone Somewhere",
+      "cover": "generic-book-cover.jpg",
+      "publishingDate": "1965",
+      "rating": "10",
+      "purchasingLinks": [
+        {
+          "site": "Amazon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "iBooks",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }, {
+          "site": "Play Store",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ],
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta lacus ut feugiat posuere. Aliquam vestibulum ligula nec ante pulvinar faucibus. Suspendisse eget viverra ante. Vestibulum at neque eleifend, vehicula lacus sit amet, sollicitudin magna. Maecenas ut neque eget velit rutrum finibus vitae a magna. Suspendisse lobortis suscipit feugiat. Vivamus sed varius nulla. Morbi quis justo posuere, fermentum ligula ut, congue arcu. Donec aliquam dui dui, in egestas urna fermentum eget. Maecenas eu nunc placerat, pharetra libero a, viverra nulla."
+    }
+  ]
+}
