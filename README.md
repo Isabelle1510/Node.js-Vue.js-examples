@@ -1,4 +1,4 @@
-# Reedsy Engineer Challenge
+# Reedsy Node.js Fullstack Engineer Challenge
 
 Please refer to node-fullstack.md for the answers. This is currently still a WIP. 
 
