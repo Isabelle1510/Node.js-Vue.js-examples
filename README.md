@@ -2,7 +2,7 @@
 
 I have implemented a REST API using Express.js that handles Export and Import requests. 
 
-The API should exposes endpoints to:
+The API exposes endpoints to:
 - `POST` a request for a **new Export job**. Valid requests are saved in memory. Invalid requests return an error. The request has the following schema:
 
   ```javascript
